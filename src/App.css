@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.university{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  
+  
+
+}
+.single-uni{
+  background-color: aquamarine;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 8px;
+  color:#35383e
+}
